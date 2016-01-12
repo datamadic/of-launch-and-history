@@ -14,6 +14,7 @@
     "shortcut": {
         "company": "OpenFin",
         "description": "Openfin POC",
-        "name": "launch-and-history"
+        "name": "launch-and-history",
+        "icon": "http://demoappdirectory.openf.in/desktop/config/apps/OpenFin/HelloOpenFin/img/openfin.ico"
     }
 }
