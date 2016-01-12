@@ -3,7 +3,7 @@
     "startup_app": {
         "name": "launch-and-history",
         "description": "OpenFin POC",
-        "url": "http://local:5000/",
+        "url": "http://datamadic.github.io/of-launch-and-history/",
         "uuid": "launch-and-history",
         "autoShow": true
     },
